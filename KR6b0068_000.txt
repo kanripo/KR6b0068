@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 法句譬喻經
+#+DATE: 2015-08-30 19:36:13.734531
+#+PROPERTY: JUAN 0
